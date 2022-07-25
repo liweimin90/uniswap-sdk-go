@@ -1,4 +1,4 @@
-module github.com/miraclesu/uniswap-sdk-go
+module github.com/liweimin90/uniswap-sdk-go
 
 go 1.17
 
