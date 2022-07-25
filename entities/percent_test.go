@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/miraclesu/uniswap-sdk-go/number"
+	"github.com/liweimin90/uniswap-sdk-golang/number"
 )
 
 // nolint:dupl
